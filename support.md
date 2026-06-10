@@ -2,7 +2,7 @@
 
 ## English
 
-Thanks for playing **Sticker Cup**! If you have a question, found a bug, or need help with your account or purchases, we're happy to help.
+Thanks for playing **Sticker Cup** — an unofficial, fan-made football sticker collection game. If you have a question, found a bug, or need help with your account or purchases, we're happy to help.
 
 **Contact:** eozmen.dev@gmail.com
 
